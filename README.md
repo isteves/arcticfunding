@@ -2,13 +2,8 @@
 
 ### 1) a table of the number of data sets in the Arctic Data Center (only count one version for each data set) for each NSF award number?  
 
-```{r echo = FALSE, warning = FALSE, message = FALSE}
-library(tidyverse)
 ```
-
-```{r message = FALSE, error = FALSE}
 summary <- readr::read_csv("funding_summary.csv")
-head(summary)
 ```
 
 ### 2) a graph showing number of NSF awards represented in the ADC over time?
