@@ -14,7 +14,7 @@ mn <- dataone::getMNode(cn, "urn:node:ARCTIC")
 # Get all current Arctic Data Center metadata ---------
 adc_metadata <- query(mn, list(q = "-obsoletedBy:* AND formatType:METADATA",
                     fl = "id, text, datePublished",
-                    rows = "5200"),
+                    rows = "5120"),
            as = "data.frame")
 #if query doesn't work, try rerunning a few times with different numbers of rows
 #related error message: Error: 1: internal error: Huge input lookup
@@ -57,13 +57,15 @@ check_nsf <- function(award) {
   }
 }
 
+#NOTE: this takes a long time to run!
 nsf_matching <- funding %>% 
   select(funding) %>% 
   distinct() %>% 
-  mutate(title = map_chr(funding, check_nsf)) #takes a long time! (calls each award one by one)
+  mutate(title = map_chr(funding, check_nsf)) 
 
 # results saved as:
 # write.csv(nsf_matching, "nsf_matching.csv", row.names = FALSE)
+# nsf_matching <- read_csv("nsf_matching.csv")
 
 # Join with funding and filter out NA's --------
 funding_nsf <- funding %>% 
@@ -76,6 +78,8 @@ funding_summary <- funding_nsf %>%
   group_by(funding) %>% 
   summarize(n_datasets = n())
 
+write.csv(funding_summary, "funding_summary.csv", row.names = FALSE)
+
 # Aim 2: graph cumulative datasets
 # Get earliest publish date
 funding_dates <- funding_nsf %>% 
@@ -86,6 +90,10 @@ funding_dates <- funding_nsf %>%
   mutate(count = 1,
          ccount = cumsum(count))
 
-ggplot(funding_dates, aes(x = date, y = ccount)) +
+cplot <- ggplot(funding_dates, aes(x = date, y = ccount)) +
   geom_line() +
-  xlab("Date") + ylab("Cumulative datasets")
+  xlab("Date") + ylab("Cumulative datasets") +
+  theme_bw()
+#auto-removed files without dates
+
+ggsave("awards_over_time.png")
