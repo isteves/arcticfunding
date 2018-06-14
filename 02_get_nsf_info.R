@@ -32,6 +32,7 @@ funding_summary <- funding_clean %>%
   group_by(funding_num) %>% 
   summarize(n_datasets = n(),
             dataset_ids = paste(file, collapse = "; "),
-            funding_text = paste(unique(funding), collapse = "; "))
+            funding_text = paste(unique(funding), collapse = "; ")) %>% 
+  inner_join(nsf_matching_clean, by = "funding_num")
   
 write_csv(funding_summary, "funding_summary.csv")
