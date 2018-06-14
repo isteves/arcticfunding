@@ -21,17 +21,26 @@ adc_metadata <- query(mn, list(q = "-obsoletedBy:* AND formatType:METADATA",
 
 # if desired, save to csv
 # write.csv(adc_metadata, "adc_metadata.csv", row.names = FALSE)
+# adc_metadata <- read_csv("adc_metadata.csv")
 
-# Extract possible funding numbers from text field
-funding <- adc_metadata %>% 
-  as.tibble() %>% 
-  mutate(text = tolower(text),
-         # nsf = str_detect(text, "nsf"), #trying to detect "nsf" doesn't seem to work well
-         funding = str_extract_all(text, " [0-9]{7} ")) %>% 
-  unnest(funding) %>% 
-  mutate(funding = str_trim(funding)) #remove white spaces
+# TRIED: Extract possible funding numbers from text field ---------
+# funding <- adc_metadata %>% 
+#   as.tibble() %>% 
+#   mutate(num_text = str_extract_all(text, ".{10}[0-9]{5,7} .{10}")) %>% 
+#   unnest()
+# 
+# x <- funding %>% 
+#   select(num_text) %>% 
+#   filter(
+#     !str_detect(num_text, "Box|USA"), #po boxes, addresses with USA
+#     !str_detect(num_text, "[.][0-9]{5,7}"), #geo cov
+#     !str_detect(num_text, " [a-zA-Z]{2}[ ]+[0-9]{5,7}"), #abbreviated states
+#     !str_detect(num_text, "[uuid].*[0-9]{5,7}"), #urn
+#     !str_detect(num_text, "[A-z0-9][.][a-zA-Z]{2,4}[ ]+[0-9]{5,7}") #file bytes
+#   )
+#CONCLUSION: ran into too many problems with numbers in text: urn's, zip codes, (foreign) phone #'s, bytes, geo cov, etc.
 
-# TRY filtering out awards that are NSF polar-related -------
+# TRIED filtering out awards that are NSF polar-related -------
       # 
       # # Get NSF award numbers
       # polar_awards <- datamgmt::get_awards(print_fields = "id") #saved as polar-awards.csv
