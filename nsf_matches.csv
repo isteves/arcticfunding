@@ -1,0 +1,394 @@
+funding_num,date,expDate,fundProgramName,startDate,title
+0125399,01/30/2002,01/31/2008,ARCTIC SYSTEM SCIENCE PROGRAM,02/01/2002,Collaborative Research:  CTD/Hydrographic and Underway Service Measurements for the Shelf-Basin Interactions Phase II Field Project
+0229302,09/11/2002,09/30/2007,ARCTIC SYSTEM SCIENCE PROGRAM,10/01/2002,Biogeochemical Tracers in Arctic Rivers:  Linking the Pan-Arctic Watershed to the Arctic Ocean
+0229766,11/18/2002,12/31/2007,ARCTIC SYSTEM SCIENCE PROGRAM,01/01/2003,Changes in Freeze-Thaw and Permafrost Dynamics and Their Hydrological Implication over the Russian Arctic Drainage Basin
+0230236,09/05/2002,12/31/2008,ARCTIC SYSTEM SCIENCE PROGRAM,01/01/2003,"Collaborative Research:  Variability and Forcing of Fluxes Through Nares Strait and Jones Sound, a Freshwater Emphasis"
+0244097,05/07/2003,04/30/2009,ARCTIC NATURAL SCIENCES,05/15/2003,"Holocene and Modern Climate Change in the High Arctic:  Establishing an REU site on Svalbard, Norway"
+0326109,08/08/2003,08/31/2009,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2003,Collaborative Research: Ocean Pressure in the Arctic Derived From Satellite Gravity Observations and In Situ Pressure Measurements
+0327664,02/27/2004,06/30/2008,ARCTIC SYSTEM SCIENCE PROGRAM,03/01/2004,International Arctic Research Center (IARC)
+0335941,04/19/2004,03/31/2010,ARCTIC SYSTEM SCIENCE PROGRAM,04/15/2004,"Long-term Measurements and Observations for the International Arctic Research Community on the Kuparuk River Basin, Alaska"
+0336450,09/09/2003,08/31/2010,AON IMPLEMENTATION,09/15/2003,"Core Measurements at Summit, Greenland Environmental Observatory"
+0352687,09/07/2004,08/31/2009,AON IMPLEMENTATION,09/01/2004,Collaborative Research: North Pole Station: A Distributed Long-Term Environmental Observatory
+0424589,08/01/2005,05/31/2017,STC CLASS OF 2005,06/01/2005,Center for Remote Sensing of Ice Sheets (CReSIS)
+0424864,09/14/2004,09/30/2011,AON IMPLEMENTATION,10/01/2004,The Beaufort Gyre System:   Flywheel of the Arctic Climate?
+0519899,01/20/2006,01/31/2008,AON IMPLEMENTATION,02/01/2006,Design and Initialization of an Ice-Tethered Profiler Array Contributing to the Arctic Observing System
+0520328,02/16/2006,01/31/2008,AON IMPLEMENTATION,02/01/2006,Ocean-Ice Interaction Measurements using Autonomous Ocean Flux Buoys in the Arctic Observing System
+0520578,08/22/2006,12/31/2009,ARCTIC NATURAL SCIENCES,09/01/2006,Thermal State of Permafrost (TSP): The US Contribution to the International Permafrost Observatory Network
+0528632,05/10/2005,10/31/2007,AON IMPLEMENTATION,05/15/2005,Comparison of Water Properties and Flows in the U.S. and Russian Channels of the Bering Strait - 2005 to 2006
+0538427,04/28/2006,06/30/2010,ANTARCTIC GLACIOLOGY,07/01/2006,Trace and Ultra-Trace Chemistry Measurements of the WAIS Divide Ice Core
+0611995,08/25/2006,08/31/2010,ARCTIC NATURAL SCIENCES,09/01/2006,Factors controlling seasonal changes in the structure and function of food webs of perennial spring streams in Arctic Alaska
+0612452,01/23/2007,01/31/2010,AON IMPLEMENTATION,02/01/2007,Development of data products for the  University of Wisconsin High Spectral Resolution Lidar
+0612457,05/03/2007,04/30/2011,ARCTIC NATURAL SCIENCES,05/15/2007,Collaborative Research: The Collaborative O-Buoy Project: Deployment of a Network of Arctic Ocean Chemical Sensors for the IPY and Beyond
+0612461,06/22/2006,06/30/2009,ARCTIC NATURAL SCIENCES,07/01/2006,Collaborative Research: An Isotope MIF Study of Volcanic Events in Greenland Ice Cores
+0612534,08/18/2006,08/31/2010,ARCTIC NATURAL SCIENCES,09/01/2006,Mechanisms and feedback consequences of shrub expansion following long-term increases in winter snow depth in northern Alaska: a legacy for IPY
+0622406,05/03/2006,07/31/2009,AON IMPLEMENTATION,05/15/2006,Development and implementation of the terrestrial Circumarctic Environmental Observatories Network (CEON)
+0631713,02/23/2007,02/28/2010,ARCTIC NATURAL SCIENCES,03/01/2007,IPY: COLLABORATIVE RESEARCH: The Pacific Gateway to the Arctic- Quantifying and Understanding Bering Strait Oceanic Fluxes
+0631951,01/24/2007,01/31/2011,AON IMPLEMENTATION,02/01/2007,IPY:  Towards an Arctic Observing Network:  An array of Ice-Tethered Profilers to sample the upper ocean water properties during the International Polar Year
+0632139,03/13/2007,02/29/2012,ARCTIC NATURAL SCIENCES,03/15/2007,"IPY: Collaborative Research on Carbon, Water, and Energy Balance of the Arctic Landscape at Flagship Observatories and in a PanArctic Network"
+0632144,02/07/2007,01/31/2010,AON IMPLEMENTATION,02/15/2007,IPY: Collaborative Research: Study of arctic ecosystem changes in the IPY using the International Tundra Experiment
+0632187,03/13/2007,02/28/2010,AON IMPLEMENTATION,03/15/2007,Collaborative Research:  IPY:  Cloud Properties Across the Arctic Basin from Surface and Satellite Measurements - An Existing Arctic Observing Network
+0632201,02/22/2007,02/28/2009,AON IMPLEMENTATION,03/01/2007,IPY:  Observing the dynamics of the deepest waters in the Arctic Ocean
+0632231,03/29/2007,03/31/2011,AON IMPLEMENTATION,04/01/2007,IPY:  An Innovative Observational Network for Critical Arctic Gateways--Understanding Exchanges through Davis and Fram Straits
+0632296,02/28/2007,02/28/2011,AON IMPLEMENTATION,03/01/2007,"Collaborative Research, IPY:   A Cooperative Arctic Data and Information Service (CADIS)"
+0632345,04/06/2007,04/30/2010,AON IMPLEMENTATION,05/01/2007,IPY: Exchange for Local Observations and Knowledge of the Arctic (ELOKA)
+0632387,03/13/2007,06/30/2011,ARCTIC SYSTEM SCIENCE PROGRAM,03/15/2007,"IPY: Pan-Arctic Studies of the Coupled Tropospheric, Stratospheric and Mesospheric Circulation"
+0632398,03/29/2007,03/31/2011,ARCTIC SYSTEM SCIENCE PROGRAM,04/01/2007,IPY: Collaborative Research on the State of the Arctic Sea Ice Cover: An Integrated Seasonal Ice Zone Observing Network (SIZONET)
+0632400,02/06/2007,01/31/2011,ARCTIC SYSTEM SCIENCE PROGRAM,02/15/2007,IPY: Development of a Network of Permafrost Observatories in North America and Russia: The US Contribution to the International Polar Year
+0633979,05/15/2007,04/30/2010,AON IMPLEMENTATION,05/15/2007,IPY: Collaborative Research: Aerial Hydrographic Surveys for IPY and Beyond: Tracking Change and Understanding Seasonal Variability
+0634079,05/31/2007,09/30/2009,ARCTIC SOCIAL SCIENCES,06/01/2007,International Polar Year Collaborative Project: Bering Sea Sub-Network:   International Community-Based Observation Alliance for Arctic Observing Network (BSSN)
+0638408,03/29/2007,03/31/2011,AON IMPLEMENTATION,04/01/2007,IPY Collaborative Research: Is the Arctic Human Environment Moving to a New State?
+0649006,09/10/2007,08/31/2013,ARCTIC NATURAL SCIENCES,09/15/2007,The Svalbard REU - Holocene and Modern Climate Change in the High Arctic
+0710891,09/11/2007,08/31/2012,ARCTIC NATURAL SCIENCES,09/15/2007,Collaborative Research: High-resolution studies of glacier dynamics at two major outlet glaciers in East Greenland
+0713943,08/24/2007,08/31/2013,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2007,Collaborative Research:  A Synthesis of Existing and New Observations of Air-Snowpack Exchanges to Assess the Arctic
+0714078,09/07/2007,08/31/2013,ARCTIC NATURAL SCIENCES,09/15/2007,Collaborative Research: The Impacts of Arctic Storms on Landfast Ice Variations
+0715431,08/23/2007,07/31/2014,ARCTIC SOCIAL SCIENCES,09/01/2007,"Collaborative Proposal: Indigenous-State Relations in Alaska and Beyond:Sustainable Livelihoods, Biocultural Diversity and Health Since the Alaska Native Claims Settlement Act"
+0732556,09/05/2007,09/30/2011,AON IMPLEMENTATION,10/01/2007,IPY: Halogen Chemistry and Ocean-Atmosphere-Sea Ice-Snowpack (OASIS) Chemical Exchange During IPY
+0732713,12/17/2007,12/31/2011,ARCTIC NATURAL SCIENCES,01/01/2008,Adaptive long-term fasting in land- and ice-bound polar bears: coping with ice loss in the Arctic?
+0732726,04/21/2008,03/31/2011,AON IMPLEMENTATION,04/15/2008,Collaborative Research: IPY:  Dynamic Controls on Tidewater Glacier Retreat
+0732846,09/13/2007,08/31/2014,ARCTIC SOCIAL SCIENCES,09/15/2007,COLLABORATIVE RESEARCH: IPY:  Reconstruction of Human Genetic History Along the North Slope
+0732885,09/10/2007,08/31/2012,ARCTIC NATURAL SCIENCES,09/15/2007,IPY Back to the Future (BTF): Re-sampling old research sites to assess change in high latitude terrestrial ecosystem structure and function
+0732944,09/26/2007,12/31/2010,CCLI-Type 3 (Comprehensive),01/01/2008,Collaborative Research.  IPY:  The Polaris Project:  Rising Stars in the Arctic
+0732948,02/20/2008,02/29/2012,ARCTIC NATURAL SCIENCES,03/01/2008,Collaborative Research: IPY: Observation and Modeling of Tundra Ecosystem Responses to Climate Change
+0732985,06/20/2008,06/30/2012,AON IMPLEMENTATION,07/01/2008,Collaborative Research: IPY: Arctic Great Rivers Observatory (Arctic-GRO)
+0733074,09/04/2007,08/31/2011,ARCTIC SYSTEM SCIENCE PROGRAM,09/15/2007,IPY: Microbial winter survival physiology: a driver on microbial community composition and carbon cycling
+0756708,07/14/2009,07/31/2013,HUMANS IN THE POLAR REGIONS,08/01/2009,"Using Inuit Qaujimajatuqangit, Tradtional Knowledge, To Guide The Development Of Hypothses On Narwhal Tusk Function"
+0803352,08/20/2008,08/31/2012,ARCTIC NATURAL SCIENCES,09/01/2008,Collaborative Research: TransArctic Paleoclimate of the Eocene
+0805703,08/25/2008,08/31/2010,ARCTIC RESEARCH AND EDUCATION,09/01/2008,"Polar Sea-Ice Information Needs: Interdisciplinary Training, Outreach and IPY Legacy Products Through a Sea-Ice System Services Approach"
+0806202,08/20/2008,11/30/2012,ARCTIC NATURAL SCIENCES,12/01/2008,"Collaborative Research: Controls on the motion of soft-bedded glaciers from hourly to seasonal observations of force budget and basal conditions at Breidamerkurjokull, Iceland"
+0806339,08/18/2008,08/31/2012,ARCTIC NATURAL SCIENCES,09/01/2008,Collaborative Research: The NEEM Deep Ice Core
+0806394,08/20/2008,08/31/2014,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2008,COLLABORATIVE RESEARCH:   Spatial and Temporal Influences of Thermokarst Failures on Surface Processes in Arctic Landscapes
+0806414,08/18/2008,08/31/2014,ARCTIC NATURAL SCIENCES,09/01/2008,Collaborative Research: The NEEM Deep Ice Core
+0806451,08/20/2008,08/31/2013,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2008,COLLABORATIVE RESEARCH:   Spatial and Temporal Influences of thermokarst features on Surface Processes in Arctic Landscapes
+0806465,08/20/2008,08/31/2013,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2008,COLLABORATIVE RESEARCH:  Spatial and Temporal Influences of Thermokarst Failures on Surface Processes in Arctic Landscapes
+0806506,08/27/2008,08/31/2012,ARCTIC NATURAL SCIENCES,09/15/2008,Modeling patch-scale expansion of arctic shrubs
+0806643,08/28/2008,08/31/2013,ARCTIC NATURAL SCIENCES,09/15/2008,"Collaborative Research: Chemical Weathering and Organic Carbon Export From Arctic Watersheds, North Slope, AK"
+0806776,07/23/2008,08/31/2012,ARCTIC NATURAL SCIENCES,09/01/2008,Collaborative Research: Cold-season gas exchange of arctic plants - resolving winter carbon and water balances of Alaskan arctic tundra
+0807094,08/07/2008,08/31/2012,ARCTIC NATURAL SCIENCES,09/01/2008,"RUI: Controls on methanogenesis, methane oxidation, and consumer utilization of methane-derived carbon in arctic lakes"
+0808604,08/27/2008,12/31/2012,ARCTIC NATURAL SCIENCES,09/01/2008,Reduction of iron and humic substances as a dominant respiratory process in arctic peat soils
+0813635,07/31/2008,01/31/2015,ARCTIC SOCIAL SCIENCES,08/15/2008,Learning about environmental research in the context of climate change: an international scholastic interchange
+0839122,06/10/2009,12/31/2013,ANTARCTIC GLACIOLOGY,01/01/2010,Collaborative Research: Integrated High Resolution Chemical and Biological Measurements on the Deep WAIS Divide Core
+0842779,10/31/2008,11/30/2010,AON IMPLEMENTATION,12/01/2008,Science Plan and Workshop Support for Bering Strait Environmental Observations
+0852077,07/13/2009,07/31/2012,POST DOC/TRAVEL,08/01/2009,PostDoctoral Research Fellowship
+0855748,07/06/2009,08/31/2015,AON IMPLEMENTATION,09/01/2009,"Collaborative Research: An Ocean Observing System for the Bering Strait, the Pacific Gateway to the Arctic - an integral part of the Arctic Observing Network"
+0855828,08/04/2009,07/31/2014,AON IMPLEMENTATION,08/15/2009,Collaborative Proposal: An Interdisciplinary Monitoring Mooring in the Western  Arctic Boundary Current: Climatic Forcing and Ecosystem Response
+0856177,05/21/2009,09/30/2013,AON IMPLEMENTATION,06/15/2009,UpTempO: Measuring the Upper Layer Temperature of the Arctic Ocean
+0856214,08/14/2009,08/31/2012,PHYSICAL OCEANOGRAPHY,09/01/2009,Collaborative Research: Sustained Observations of the North Pole Environment to Characterize Ongoing Arctic Change
+0856268,07/16/2009,07/31/2013,AON IMPLEMENTATION,08/01/2009,Ultraviolet Radiation in the Arctic
+0856305,08/26/2009,08/31/2014,AON IMPLEMENTATION,09/01/2009,Bering Sea Sub Network: A Distributed Human Sensor Array to Detect Arctic Environmental Change
+0856330,08/14/2009,08/31/2017,AON IMPLEMENTATION,09/01/2009,Collaborative Research: Sustained Observations of the North Pole Environment to Characterize Ongoing Arctic Change
+0856421,08/03/2009,12/31/2009,AON IMPLEMENTATION,08/15/2009,The Circumpolar Active Layer Monitoring Network--CALM III (2009-2014): Long-term Observations on the Climate-Active Layer-Permafrost System
+0856479,08/13/2009,07/31/2014,AON IMPLEMENTATION,08/15/2009,AON:  Continuation of the of Ice-Tethered Profiler contribution to the Arctic Observing Network
+0856503,06/29/2009,12/31/2011,AON IMPLEMENTATION,07/01/2009,A Replacement Laser for the Arctic High Spectral Resolution Lidar
+0856531,06/18/2009,06/30/2014,AON IMPLEMENTATION,07/01/2009,AON:  Continuing the Beaufort Gyre Observing System to Document and Enhance Understanding Environmental Change in the Arctic
+0856559,07/02/2009,09/30/2013,AON IMPLEMENTATION,07/15/2009,"Collaborative Research:  An Integrated Characterization of Energy, Clouds,   Atmospheric State, and Precipitation at Summit (ICECAPS)"
+0856710,08/14/2009,07/31/2015,AON IMPLEMENTATION,08/15/2009,Arctic Observing Networks: Collaborative Research: Sustaining and amplifying the ITEX AON through automation and increased interdisciplinarity of observations
+0856773,07/02/2009,09/30/2013,AON IMPLEMENTATION,07/15/2009,"Collaborative Research: Integrated Characterization of Energy, Clouds, Atmospheric State, and Precipitation at Summit (ICECAPS)"
+0856845,06/15/2009,06/30/2014,AON IMPLEMENTATION,07/01/2009,"Continued Core Atmospheric and Snow Measurements at the Summit, Greenland Environmental Observatory"
+0856853,05/21/2009,05/31/2013,AON IMPLEMENTATION,06/15/2009,"Fire In the Arctic Landscape: Impacts, Interactions And Links To Global and Regional Environmental  Change"
+0856864,05/21/2009,11/30/2014,AON IMPLEMENTATION,06/15/2009,AON: Thermal State of Permafrost (TSP) in North America and Northern Eurasia: The US Contribution to the International network of Permafrost Observatories (INPO)
+0856867,08/17/2009,12/31/2016,AON IMPLEMENTATION,01/01/2010,Collaborative Research on the State of the Arctic Sea Ice Cover: Sustaining the Integrated Seasonal Ice Zone Observing Network (SIZONET)
+0902106,06/10/2009,08/31/2013,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2009,COLLABORATIVE RESEARCH: How does changing seasonality affect the capacity of arctic stream networks to influence nutrient fluxes from the landscape to the ocean?
+0902126,06/16/2009,06/30/2013,ARCTIC SYSTEM SCIENCE PROGRAM,07/01/2009,Collaborative proposal: Shifting seasonality of Arctic river hydrology alters key biotic linkages among aquatic systems
+0902146,08/14/2009,08/31/2013,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2009,"Understanding Climate-Driven Phenological Change: Observations, Adaptations and Cultural Implications in Northeastern Siberia and Labrador/Nunatsiavut (PHENARC)"
+0902175,08/20/2009,08/31/2012,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2009,Collaborative Research: Seasonality of circumpolar tundra - ocean and atmosphere controls and effects on energy and carbon budgets
+0902177,09/02/2009,08/31/2013,ARCTIC SYSTEM SCIENCE PROGRAM,09/15/2009,Tracking the Seasonal Contribution of Algal Fatty Acids to the Arctic Marine System
+0902184,07/09/2009,08/31/2012,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2009,Collaborative Research: The Changing Seasonality of Tundra Nutrient Cycling: Implications for Ecosystem and Arctic System Functioning
+0903124,06/04/2009,08/31/2012,PALEOCLIMATE PROGRAM,09/01/2009,"Collaborative Research:  P2C2--Ice Core Paleoclimate Records from Combatant Col, British Columbia, Canada"
+0904050,01/27/2009,06/30/2012,ECOSYSTEM STUDIES,09/30/2008,"Collaborative Research: RUI: Landscape-level Controls on Terrestrial, Aquatic, and Wetland Responses to Climate Change in the Southern Canadian Arctic"
+0904152,07/02/2009,09/30/2013,AON IMPLEMENTATION,07/15/2009,"Collaborative Research: Integrated Characterization of Energy, Clouds, Atmospheric State, and Precipition over Summit ( ICECAPS)"
+0908156,08/28/2009,09/30/2013,ARCTIC NATURAL SCIENCES,10/01/2009,Collaborative Research: Subglacial controls on Greenland Ice Sheet marginal acceleration
+0908724,08/03/2009,07/31/2013,ARCTIC NATURAL SCIENCES,08/15/2009,Frost flowers in Arctic winter: Sea-to-air transport of microbes and viruses
+0909048,07/27/2009,07/31/2013,ARCTIC NATURAL SCIENCES,08/01/2009,Collaborative research: Glacier seismicity and its relationship to basal movement
+0909155,06/30/2009,10/31/2012,ARCTIC NATURAL SCIENCES,09/01/2009,Canopy gas exchange and growth of white spruce near the Arctic treeline: confronting measurements with models along natural and experimental resource gradients
+0909193,08/26/2009,06/30/2013,ARCTIC NATURAL SCIENCES,09/15/2009,"Collaborative Research: A winter expedition to explore the biological and physical conditions of the Bering, Chukchi, and Southern Beaufort Seas"
+0909264,08/26/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/01/2009,Arctic Ocean redox history and Hg cycling using redox-sensitive trace metals and Hg isotopes: the influence of sea ice
+0909265,09/11/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/15/2009,Understanding the physical properties of Northern Greenland near-surface snow: A spatial variability study
+0909274,08/04/2009,07/31/2014,ARCTIC NATURAL SCIENCES,08/15/2009,Collaborative Research: Glacier-Ocean Coupling in a Large East Greenland Fjord
+0909330,08/18/2009,08/31/2012,ARCTIC NATURAL SCIENCES,09/01/2009,Controls on Sea Surface pCO2 Variability and CO2 Uptake in the Western Arctic Ocean
+0909349,08/04/2009,08/31/2014,ARCTIC NATURAL SCIENCES,09/01/2009,River Plumes as Indicators for Greenland Ice Sheet Melt
+0909368,08/26/2009,08/31/2014,ARCTIC NATURAL SCIENCES,09/15/2009,"Collaborative Research: A Winter Expediton to Explore the Biological and Physical Conditions of the Bering, Chukchi and Southern Beaufort Seas"
+0909372,07/31/2009,09/30/2013,ARCTIC NATURAL SCIENCES,08/15/2009,Impacts of Climate Change and Ice Conditions on Microbial Food Web Dynamics in the Barents Sea
+0909374,09/11/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/15/2009,"Collaborative Research: The impact of bromine chemistry on the isotopic composition of nitrate at Summit, Greenland"
+0909377,07/13/2009,12/31/2012,ARCTIC NATURAL SCIENCES,08/01/2009,Interannual Variability in Carbon Export to the Deep Arctic Ocean
+0909388,08/26/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/01/2009,Improving surface mass balance estimation of the Greenland ice sheet through assimilation of multi-sensor satellite products and ground measurements into a regional climate model
+0909431,08/26/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/01/2009,Collaborative Research: Subglacial Water Intrusion in Greenland
+0909432,07/17/2009,07/31/2012,ARCTIC NATURAL SCIENCES,08/01/2009,"Near-inertial wave generation, propagation, and shoaling in a seasonally ice-covered ocean"
+0909454,08/28/2009,09/30/2013,ARCTIC NATURAL SCIENCES,10/01/2009,Collaborative Research: Subglacial Controls on Greenland Ice Sheet Marginal Acceleration
+0909482,08/20/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/01/2009,The geochemical ecology of cryptoendolithic microorganisms: relationships between cyanobacteria and sandstone weathering in the Canadian High Arctic
+0909495,08/24/2009,09/30/2013,ARCTIC NATURAL SCIENCES,10/01/2009,Collaborative Research: Greenland Ice Sheet Basal Hydrology and Sliding Dynamics ? The Proof of the Drill
+0909499,09/09/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/15/2009,Collaborative Research: Greenland Ice Sheet Snow Accumulation Variability: Filling Knowledge and Data Voids
+0909502,08/25/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/01/2009,"Re-visiting ""The Limnology of Tundra Ponds"": Re-sampling historic sites to track global change in Arctic aquatic ecosystems."
+0909523,07/23/2009,12/31/2012,ARCTIC SYSTEM SCIENCE PROGRAM,01/01/2010,Collaborative Research: Nonlinearities in the Arctic climate system during the Holocene
+0909538,07/16/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/01/2009,Collaborative Research: Environmental changes alter the carbon cycle of High Arctic ecosystems: shifts in the ages and sources of CO2 and DOC
+0909541,08/17/2009,08/31/2013,ARCTIC NATURAL SCIENCES,09/01/2009,"Biomass Burning, Dust, Sea Salt, Volcanic & Pollution Aerosols in the Arctic during the Last 2 Millennia: High Resolution Aerosol Records from NEEM & an Aray of Archived Ice Cores"
+0909571,08/03/2009,09/30/2013,ARCTIC NATURAL SCIENCES,08/15/2009,Environmental change in the Arctic Ocean:  a synthesis and retrospective analysis of zooplankton communities
+0935336,06/30/2009,12/31/2012,ARCTIC NATURAL SCIENCES,07/01/2009,EAGER: Developing a high-resolution late Holocene sediment record of rapid Arctic climate change from the Colville delta and adjacent Beaufort Sea inner shelf
+0936365,09/01/2009,08/31/2012,ATMOSPHERIC CHEMISTRY,09/01/2009,"Support for Atmospheric Field Research at Thule, Greenland"
+1003740,05/27/2010,06/30/2013,ARCTIC NATURAL SCIENCES,07/01/2010,Collaborative Research: Unraveling the post-Pliocene Arctic Ocean transition to the icehouse climate
+1020417,04/05/2011,03/31/2015,AON IMPLEMENTATION,04/15/2011,The Yukon River Basin Indigenous Observation Network: Uniting Traditional Ecological Knowledge and Western Science to Address and Understand Water Resources in the Arctic
+1021274,08/10/2010,08/31/2015,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2010,The Response of Arctic Clouds to Changes in Sea Ice during Autumn
+1022139,07/13/2010,12/31/2016,AON IMPLEMENTATION,07/15/2010,"Collaborative Research: Annual Observations of the Biological and Physical Marine Environment in the Chukchi and nearshore Beaufort Seas near Barrow, AK"
+1022472,08/11/2010,08/31/2016,AON IMPLEMENTATION,09/01/2010,The Arctic Observing Network at Critical Gateways--A Sustained Observing System at Davis Strait
+1022475,08/19/2010,08/31/2016,AON IMPLEMENTATION,09/01/2010,Collaborative Research:  Long-term Observations in the Switchyard Region of the Arctic Ocean as part of the Arctic Observing Network (AON)
+1022703,08/03/2010,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2010,Strain-Induced Fabric Development in Ice under Hydrostatic Pressure
+1022710,08/05/2010,12/31/2015,AON IMPLEMENTATION,01/01/2011,Collaborative Research: Sea ice deformation observation within AON
+1022716,08/31/2010,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2010,Radiocarbon in Dissolved Organic Matter in the  Arctic Ocean
+1022843,07/27/2010,07/31/2014,ARCTIC NATURAL SCIENCES,08/01/2010,Dynamics and Forcing of Nares Strait from  2003 to 2009: Tidal to Interannual Variability to the West of Greenland
+1022979,08/25/2010,08/31/2015,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2010,Collaborative Research: Long-term carbon storage shifts in high-latitude peatlands with paleoclimate change: Linking peatland modeling with paleoecology and paleohydrology
+1023118,09/09/2010,08/31/2016,AON IMPLEMENTATION,09/15/2010,Collaborative Research: The O-Buoy Network of Chemical Sensors in the Arctic Ocean
+1023191,08/26/2010,02/29/2016,ARCTIC NATURAL SCIENCES,09/01/2010,Deciphering 6 My of the Greenland Ice Sheet History using in situ 10-Be from marine sediment cores
+1023264,07/27/2010,07/31/2014,AON IMPLEMENTATION,08/15/2010,Arctic Ocean Acidification: Bering Strait Time Series
+1023270,09/08/2010,03/31/2014,ARCTIC SYSTEM SCIENCE PROGRAM,09/15/2010,Collaborative Research: Turning on the lights - Photochemical and microbial processing of newly exposed carbon in arctic ecosystems
+1023272,08/11/2010,02/28/2013,ARCTIC NATURAL SCIENCES,09/01/2010,Collaborative Research: An investigation of wave dynamics in the Arctic mesosphere and coupling between the lower and upper polar atmosphere
+1023281,08/26/2010,08/31/2014,ARCTIC NATURAL SCIENCES,09/01/2010,Collaborative Research: The East Siberian Arctic Shelf as a Source of Atmospheric Methane: First Approach to Quantitative Assessment
+1023283,08/05/2010,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2010,"Impacts of reduced sea ice on atmospheric heat, precipitation rates, and ice production"
+1023318,08/31/2010,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2010,Collaborative Research: Analysis of McCall Glacier Ice Core and Related Modern Process Studies
+1023331,07/13/2010,12/31/2018,AON IMPLEMENTATION,07/15/2010,"Collaborative Research: Annual Observations of the Biological and Physical Marine Environment in the Chukchi and Nearshore Beaufort Seas near Barrow, AK"
+1023334,08/05/2010,07/31/2016,ARCTIC NATURAL SCIENCES,08/15/2010,Population genetics of a climate-indicating predator across the forest-tundra ecotone
+1023348,09/10/2010,12/31/2014,ARCTIC NATURAL SCIENCES,01/01/2011,Collaborative research: Sinking rates and nutritional quality of organic mater exported from sea ice;  the importance of exopolymeric substances
+1023371,08/12/2010,08/31/2016,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2010,Collaborative Research: Impact of Storm Activity on Recent Changes in Arctic Sea Ice Mass Balance
+1023396,08/31/2010,08/31/2014,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2010,Effects of Environmental Change on Arctic-Breeding Shorebirds
+1023446,07/13/2010,06/30/2016,AON IMPLEMENTATION,07/15/2010,"Collaborative Research:  Annual Observations of the Biological and Physical Marine Environment in the Chukchi and nearshore Beaufort Seas near Barrow, AK"
+1023462,08/05/2010,07/31/2014,ARCTIC NATURAL SCIENCES,08/15/2010,Collaborative Research: Greenland Meltwater Geomicrobiology
+1023477,08/05/2010,07/31/2016,ARCTIC SYSTEM SCIENCE PROGRAM,08/15/2010,Collaborative Research: Integrating paleoecological analysis and ecological modeling to elucidate the responses of tundra fire regimes to climate change
+1023537,08/25/2010,12/31/2014,ARCTIC SYSTEM SCIENCE PROGRAM,01/01/2011,Late Quaternary Sea Ice History of the Beringian Arctic Gateway
+1023561,09/07/2012,08/31/2016,POLAR CYBERINFRASTRUCTURE,09/15/2012,"Collaborative Research - Development and innovation of the Barrow Area Information Database (BAID): A cyberinfrastructure that supports arctic science, outreach and education."
+1023574,08/13/2010,09/30/2017,ARCTIC SYSTEM SCIENCE PROGRAM,10/01/2010,"Closing the Isotope Hydrology at Summit: Measurements of Source Regions, Precipitation and Post-deposition Processes"
+1023582,08/04/2010,08/31/2014,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2010,Collaborative Research: Terrestrial Linkages to Microbial and Metazoan Communities in Coastal Ecosystems of the Beaufort Sea
+1023619,09/10/2010,08/31/2014,ARCTIC SOCIAL SCIENCES,09/15/2010,"Fisheries Privatization, Sociocultural Transitions, and Well-Being in Kodiak, Alaska"
+1023623,08/05/2010,11/30/2015,ARCTIC SYSTEM SCIENCE PROGRAM,12/15/2010,Dynamics and Consequences of Increasing Ice-wedge Degradation
+1023651,08/31/2010,08/31/2014,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2010,"Collaborative Research: A pan-Arctic, storm-by-storm isotopic investigation of the influence of Arctic sea ice on precipitation - a crucial link in the coupled climate system"
+1023654,09/07/2012,08/31/2018,POLAR CYBERINFRASTRUCTURE,09/15/2012,"Collaborative Research - Development and innovation of the Barrow Area Information Database (BAID): A cyberinfrastructure that supports arctic science, outreach and education"
+1023662,08/05/2010,01/31/2014,AON IMPLEMENTATION,01/01/2011,Collaborative Research: Sea Ice Deformation Observation with an AON
+1023672,09/09/2010,08/31/2015,ARCTIC SYSTEM SCIENCE PROGRAM,09/15/2010,"Collaborative Proposal:  Aerosol Concentrations, Sources and Transport Pathways within the Arctic Polar Dome during Recent Millennia"
+1023686,03/10/2011,02/28/2015,ARCTIC SOCIAL SCIENCES,03/15/2011,Community-Based Documentation of Ice Seals and Walrus in the Bering Strait Region
+1026911,08/04/2010,08/31/2014,ARCTIC SOCIAL SCIENCES,09/01/2010,Shetland Islands Climate and Settlement Project: Multidisciplinary Analysis of Environmental Catastrophes on Northern Coastlines
+1038596,06/01/2010,05/31/2015,GRADUATE RESEARCH FELLOWSHIPS,06/01/2010,Graduate Research Fellowship Program
+1042531,08/29/2011,08/31/2017,ARCTIC RESRCH SUPPRT & LOGISTI,09/01/2011,Collaborative Research: Science Coordination Office for Summit Station and the Greenland Traverse
+1044610,07/20/2011,07/31/2016,ARCTIC RESEARCH AND EDUCATION,08/01/2011,Collaborative Research: The Polaris Project II: Amplifying the Impact
+1103443,06/09/2011,05/31/2013,POST DOC/TRAVEL,06/15/2011,PostDoctoral Research Fellowship
+1106317,08/31/2011,08/31/2016,ARCTIC NATURAL SCIENCES,09/15/2011,Investigating links between atmospheric chemistry and climate using oxygen isotope measurements of sulfate and nitrate from Greenland ice cores
+1106362,07/27/2011,07/31/2016,ARCTIC SOCIAL SCIENCES,08/01/2011,Ethnoarchaeological investigation of the Yup'ik seal poke storage system in southwestern Alaska
+1107106,07/21/2011,07/31/2016,AON IMPLEMENTATION,08/01/2011,Integrating Passive Acoustic Monitoring in long-term oceanographic observations of the Bering Strait
+1107343,08/03/2011,12/31/2015,ARCTIC NATURAL SCIENCES,01/01/2012,Collaborative Research: Ice Core Studies Reconstructing Greenland Climate During the Eemian and Beyond
+1107346,08/12/2011,02/28/2015,AON IMPLEMENTATION,09/01/2011,Collaborative Research: An Arctic Ocean Sea Surface pCO2 and pH Observing Network
+1107381,08/26/2011,01/31/2017,ARCTIC NATURAL SCIENCES,09/01/2011,Collaborative Research:  Linking belowground phenology and ecosystem function in a warming Arctic
+1107398,08/04/2011,07/31/2015,AON IMPLEMENTATION,08/15/2011,"Long-term measurements of nitrogen oxides at the GEOSummit station, Greenland"
+1107411,08/24/2011,12/31/2015,ARCTIC NATURAL SCIENCES,01/01/2012,COLLABORATIVE RESEARCH: Response of the Northwest Greenland Cryosphere to Holocene Climate Change
+1107428,08/16/2011,08/31/2015,ARCTIC SYSTEM SCIENCE PROGRAM,09/15/2011,Surface Energy Budgets at Arctic Terrestrial Sites: Quantifying Energy and Momentum Fluxes and their Associated Physical Processes
+1107440,08/11/2011,10/31/2012,ARCTIC NATURAL SCIENCES,08/15/2011,Collaborative Research: Climate-mediated coupling of hydrology and biogeochemistry in arctic hillslopes
+1107481,08/30/2011,08/31/2016,AON IMPLEMENTATION,09/15/2011,Collaborative Research: Toward a Circumarctic Lakes Observation Network (CALON): Multiscale Observations of Lacustrine Systems
+1107491,08/19/2011,10/31/2016,ARCTIC NATURAL SCIENCES,11/01/2011,The role of tributaries in glacier surges
+1107498,08/19/2011,08/31/2015,ARCTIC SYSTEM SCIENCE PROGRAM,09/15/2011,"Understanding the Wave-Driven Circulation and Variability of the Polar Atmosphere through Coordinated Observation, Analysis, and Modeling"
+1107524,06/28/2011,06/30/2015,ARCTIC SYSTEM SCIENCE PROGRAM,07/01/2011,"Past, Present and Fuuture States and Variations of the late Quarternary Permafrost Subsystem"
+1107593,08/26/2011,08/31/2016,AON IMPLEMENTATION,09/01/2011,"Collaborative Research on Carbon, Water, and Energy Balance of the Arctic Landscape  at Flagship Observatories in Alaska and Siberia"
+1107607,08/30/2011,02/29/2016,AON IMPLEMENTATION,09/15/2011,Collaborative Research: Toward a Circumarctic Lakes Observation Network (CALON)--Multiscale observations of lacustrine systems
+1107623,07/27/2011,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2011,COLLABORATIVE RESEARCH: Observing and characterizing submesoscale dynamics in the Arctic Ocean
+1107645,08/24/2011,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2011,"Collaborative Research:  Pacific-Arctic Carbon Synthesis - Transformations, Fluxes, and Budgets"
+1107662,07/27/2011,08/31/2016,ARCTIC NATURAL SCIENCES,09/01/2011,"Collaborative Research: Resolving centennial- to millennial-scale trends in glacier extent and lake sedimentation in the Brooks Range, Arctic Alaska"
+1107695,07/27/2011,08/31/2014,ARCTIC NATURAL SCIENCES,09/01/2011,Studies of the Production of Molecular Halogens in Arctic Snowpacks and on Sea Ice Surfaces
+1107725,08/29/2011,08/31/2015,ARCTIC NATURAL SCIENCES,09/15/2011,"Precision, Accuracy, and Aliasing of Sea Ice Thickness from Multiple Observing Platforms"
+1107737,03/07/2012,02/29/2016,POLAR CYBERINFRASTRUCTURE,03/15/2012,Phase One data rescue of the Austin Post air photo collection and new repeat aerial photography of Alaskan valley glaciers
+1107761,07/20/2011,07/31/2015,ARCTIC NATURAL SCIENCES,08/01/2011,Collaborative Research:  Are There Natural Climate Cycles in the Holocene Variations of Arctic Sea Ice and Greenland Icebergs Across the Denmark Strait?
+1107774,08/24/2011,12/31/2017,ANTARCTIC OCEAN & ATMOSPH SCI,01/01/2012,The Arctic Great Rivers Observatory (Arctic-GRO)
+1107792,08/30/2011,08/31/2015,AON IMPLEMENTATION,09/15/2011,Collaborative Research: Toward a Circumarctic Lakes Observation Network (CALON)
+1107798,09/14/2011,09/30/2014,ARCTIC NATURAL SCIENCES,10/01/2011,Collaborative Research: Forty-Thousand Years of Yedoma: An investigation into the spatial heterogeneity and paleo-history of organic-rich permafrost in Alaska
+1107801,08/10/2011,08/31/2017,ARCTIC NATURAL SCIENCES,09/01/2011,The  ultra-warm Arctic ca. 90 million years ago
+1107854,07/27/2011,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2011,"Collaborative Research: Resolving centennial- to millennial-scale trends in glacier extent and lake sedimentation in the Brooks Range, Arctic Alaska"
+1107885,07/27/2011,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2011,"Collaborative Research: Resolving centennial- to millennial-scale trends in glacier extent and lake sedimentation in the Brooks Range, Arctic Alaska"
+1107892,08/26/2011,08/31/2016,AON IMPLEMENTATION,09/01/2011,"Collaborative Research on Carbon, Water, and Energy Balance of the Arctic Landscape  at Flagship Observatories in Alaska and Siberia"
+1107942,07/20/2011,07/31/2016,ARCTIC NATURAL SCIENCES,08/01/2011,Collaborative Research: Do Holocene Variations In Arctic Sea Ice And Greenland Icebergs Drifting Through Denmark Strait Reflect Natural Cycles?
+1107981,08/26/2011,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2011,Collaborative Research: Sensitivity of Circum-Arctic Peatland Carbon to Holocene Warm Climates and Climate Seasonality
+1108074,08/03/2011,07/31/2016,ARCTIC NATURAL SCIENCES,08/15/2011,Modeling and Isotopes Link Mycorrhizal Fungi to Soil Carbon and Organic Nitrogen Use
+1108200,08/11/2011,07/31/2015,ARCTIC NATURAL SCIENCES,08/15/2011,Collaborative Research: Climate-mediated coupling of hydrology and biogeochemistry in arctic hillslopes
+1108306,08/24/2011,12/31/2015,ARCTIC NATURAL SCIENCES,01/01/2012,COLLABORATIVE RESEARCH: Response of the Northwest Greenland cryosphere to Holocene climate change
+1108391,07/21/2011,08/31/2017,AON IMPLEMENTATION,09/01/2011,"Atmospheric Hydrocarbons at GEOSummit, Greenland, as Tracers for Climate Change, Air Pollution Transport, and Oxidation Chemistry in the Arctic"
+1108425,08/26/2011,08/31/2016,ARCTIC NATURAL SCIENCES,09/01/2011,Collaborative Research: Linking belowground phenology and ecosystem function in a warming Arctic
+1108427,08/31/2011,08/31/2015,AON IMPLEMENTATION,09/15/2011,Continuous Spatial and Radiative Measurements of Arctic Clouds Leading to a Network of Compact Infrared Cloud Imagers
+1108451,08/30/2011,02/28/2015,AON IMPLEMENTATION,09/15/2011,Development of the Autonomous Arctic Infrared Observer (AAIRO)
+1108571,07/27/2011,02/29/2016,ARCTIC SOCIAL SCIENCES,08/01/2011,Education and Community Viability in Western Alaska
+1111395,06/10/2011,05/31/2014,ARCTIC SOCIAL SCIENCES,06/15/2011,Paleoindian Adaptations in Eastern Beringia: Prelude or Postscript to the Early Settlement of the Americas
+1111882,07/21/2011,02/28/2017,AON IMPLEMENTATION,09/01/2011,"The Greenland GPS Network (GNET):  Geodetic characterization of water vapor, climate cycles, climate change and ice mass balance"
+1115332,01/19/2011,01/31/2012,ARCTIC NATURAL SCIENCES,02/01/2011,"Chromophoric dissolved organic material (CDOM) in Arctic surface waters, implications for solar heating"
+1130008,09/28/2011,09/30/2015,PHYSICAL OCEANOGRAPHY,10/01/2011,Collaborative Research:  Submarine Melting of Greenland's Glaciers:  What are the Relevant Ocean Dynamics?
+1140098,06/23/2011,06/30/2012,ARCTIC NATURAL SCIENCES,07/01/2011,RAPID: Tracking Radioactive Fallout from the Fukushima Dai-ichi Disaster in Arctic Snow
+1142145,07/30/2012,07/31/2017,ANTARCTIC OCEAN & ATMOSPH SCI,08/15/2012,Reactive Gas Chemistry in the Dome C Snowpack and its Influence on Surface Layer Chemistry and Ice Core Records
+1142201,07/01/2011,06/30/2016,ARCTIC SOCIAL SCIENCES,07/01/2011,EAGER: Testing genotype-hormone associations in circumpolar ancestral and descendant populations
+1148800,08/25/2011,08/31/2013,ARCTIC NATURAL SCIENCES,09/15/2011,"RAPID:  Bering Glacier Surge--Observation, Analysis and Parameterization"
+1201733,09/07/2012,08/31/2015,AON IMPLEMENTATION,09/15/2012,Collaborative Research: Development of an Ice-Tethered Winch for the Seasonal Ice Zone
+1203132,07/31/2012,07/31/2017,ARCTIC SOCIAL SCIENCES,08/01/2012,"Factors Related to Teacher Retention in Arctic Alaska, an Integral Part of the Circumpolar North"
+1203146,09/06/2012,08/31/2018,AON IMPLEMENTATION,09/15/2012,Collaborative Research: Eurasian and Makarov basins observational network targets changes in the Arctic Ocean
+1203240,07/06/2012,06/30/2015,ARCTIC NATURAL SCIENCES,07/15/2012,InMotion: Influx of Momentum into the Arctic Ocean  - Changes Associated with Sea Ice Reduction
+1203250,08/28/2012,08/31/2015,AON IMPLEMENTATION,09/01/2012,Ultraviolet Radiation in the Arctic: 2012-2015
+1203262,06/04/2012,08/31/2016,ARCTIC NATURAL SCIENCES,09/15/2012,Collaborative Research:  Seasonal Synergy between Bacterial Osmoprotection and Algal Production in Sea Ice
+1203267,06/04/2012,08/31/2016,ARCTIC NATURAL SCIENCES,09/15/2012,Collaborative Research: Seasonal Synergy between Bacterial Osmoprotection and Algal Production in Sea Ice
+1203268,09/05/2012,08/31/2014,ARCTIC SOCIAL SCIENCES,09/15/2012,Doctoral Dissertation Research:   Centennial Scale Human Ecodynamics at Skutustadir Iceland
+1203271,08/25/2012,12/31/2016,ARCTIC SOCIAL SCIENCES,09/01/2012,"Collaborative Research:  Glacial Retreat and the Cultural Landscape of Ice Floe Sealing at Yakutat Bay, Alaska"
+1203418,06/29/2012,09/30/2017,ARCTIC NATURAL SCIENCES,10/01/2012,Collaborative Research: In Situ Borehole Measurements To Partition The Velocity Of The Greenland Ice Sheet Into Ice Deformation And Basal Sliding Components
+1203434,06/26/2012,12/31/2016,ARCTIC SYSTEM SCIENCE PROGRAM,01/01/2013,Deciphering the ecology of key diatom taxa to understand climate-induced changes in West Greenland lakes
+1203440,08/24/2012,02/28/2017,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2012,Collaborative research: Warming and irradiance measurements in the Arctic: Determining the link between solar energy absorption and surface warming through long term observations
+1203472,03/21/2012,08/31/2013,AON IMPLEMENTATION,03/15/2012,Collaborative Research: Quantifying changes in the Arctic hydrological cycle at the landscape scale using advances in water vapor isotope (18O & D) techniques and aircraft
+1203473,09/06/2012,12/31/2019,AON IMPLEMENTATION,09/15/2012,Collaborative Research: Eurasian and Makarov basins observational network targets changes in the Arctic Ocean
+1203486,07/27/2012,07/31/2016,ARCTIC NATURAL SCIENCES,08/15/2012,Collaborative Research:  Evaluating the Competing Impacts of Global Emissions Reductions and Climate Change on the Distribution and Retention of selected POPs in the Arctic Ocean
+1203492,04/16/2012,03/31/2016,ARCTIC NATURAL SCIENCES,04/15/2012,"Marine Test of the Sensitivity of Ice Streams Entering Baffin Bay to Ocean Warming from LGM through Deglaciation, with an Emphasis on Central West Greenland Ice Streams"
+1203496,07/27/2012,07/31/2016,ARCTIC NATURAL SCIENCES,08/15/2012,Collaborative Research:  Evaluating the Competing Impacts of Global Emissions Reductions and Climate Change on the Distribution and Retention of selected POPs in the Arctic Ocean
+1203506,09/24/2012,09/30/2017,AON IMPLEMENTATION,10/01/2012,UpTempO:  Measuring the Upper Layer Temperature of the Arctic Ocean
+1203526,07/27/2012,07/31/2016,ARCTIC NATURAL SCIENCES,08/15/2012,Collaborative Research:  Evaluating the Competing Impacts of Global Emissions Reductions and Climate Change on the Distribution and Retention of selected POPs in the Arctic Ocean
+1203533,07/25/2012,08/31/2016,ARCTIC NATURAL SCIENCES,09/01/2012,Assessment of the natural perchlorate source using perchlorate history  from Greenland ice cores.
+1203558,08/14/2012,10/31/2016,ARCTIC NATURAL SCIENCES,11/01/2012,Collaborative Research: Using opportunistic radon measurements to estimate the gas transfer velocity in partial sea ice cover
+1203583,09/13/2012,08/31/2014,AON IMPLEMENTATION,09/15/2012,Collaborative Research: Multi-Regional Scale Aircraft Observations of Methane and Carbon Dioxide Isotopic Fluxes in the Arctic
+1203640,08/24/2012,08/31/2015,ARCTIC NATURAL SCIENCES,09/01/2012,Searching for Abrupt Climate Change Precursors Using Ultra High Resolution Ice Core Analysis
+1203772,07/03/2012,01/31/2016,ARCTIC SYSTEM SCIENCE PROGRAM,02/01/2013,"Collaborative Research: Paleoclimate, Paleoenvironment and Other Potential Drivers of Extinction of Mammuthus primigenius, St. Paul Island, Pribilof Islands, Alaska."
+1203773,07/27/2012,12/31/2017,ARCTIC NATURAL SCIENCES,01/01/2013,Weathering of western Greenland: Influences on oceanic fluxes of radiogenic isotopes
+1203779,07/27/2012,07/31/2017,ARCTIC NATURAL SCIENCES,08/01/2012,Collaborative Research: Investigating the potential of carbon-14 in polar firn and ice as a tracer of past cosmic ray flux and an absolute dating tool
+1203784,08/24/2012,12/31/2016,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2012,Collaborative research: Warming and irradiance measurements in the Arctic: Determining the link between solar energy absorption and surface warming through long term observations
+1203838,06/11/2012,05/31/2016,PALEOCLIMATE PROGRAM,06/15/2012,Collaborative Research:  P2C2--Reconstructing Central Alaskan Precipitation Variability and Atmospheric Circulation during the Past Millennium
+1203851,07/03/2012,06/30/2015,ARCTIC NATURAL SCIENCES,07/15/2012,Collaborative Research: Developing a high-resolution late Holocene sediment record of rapid Arctic climate change from the Beaufort Sea coastal zone
+1203857,06/26/2012,08/31/2017,ARCTIC NATURAL SCIENCES,09/01/2012,Collaborative Research: Direction and Mechanisms of Seasonal Change in Arctic Microbial Communities
+1203861,07/11/2012,12/31/2015,ARCTIC NATURAL SCIENCES,01/01/2013,Atmospheric Inputs and the Photochemical Transformation of Brominated Flame Retardants in Arctic Surface Waters
+1203902,08/28/2012,08/31/2016,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2012,A multi-faceted evaluation of aerosol impacts on Arctic clouds
+1203990,07/03/2012,01/31/2017,ARCTIC NATURAL SCIENCES,02/01/2013,"Collaborative Research: Paleoclimate, Paleoenvironment and Other Potential Drivers of Extinction of Mammuthus primigenius , St. Paul Island, Pribilof Islands, Alaska"
+1204005,08/28/2012,08/31/2016,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2012,Collaborative Research:  Arctic Sensitivity to Climate Perturbations and a Millenial Perspective on Current Warming Derived from Shrinking Ice Caps
+1204013,08/24/2012,08/31/2016,ARCTIC NATURAL SCIENCES,09/01/2012,Collaborative Research:  Exploring the Dynamics of the Active Layer and Near-Surface Permafrost across the North Slope of Alaska
+1204044,09/17/2012,08/31/2018,AON IMPLEMENTATION,09/15/2012,Collaborative Research: The Distributed Biological Observatory (DBO)-A Change Detection Array in the Pacific Arctic Region
+1204059,08/28/2012,08/31/2016,ARCTIC NATURAL SCIENCES,09/01/2012,Collaborative research: Spatial and temporal variability of surface albedo and light absorbing chemical species in Greenland.
+1204070,08/24/2012,08/31/2016,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2012,"Collaborative Research: Interactions Between Air Temperature, Permafrost and Hydrology in the High Latitudes of Eurasia"
+1204082,09/17/2012,08/31/2017,AON IMPLEMENTATION,09/15/2012,Collaborative Research:  The Distributed Biological Observatory (DBO)-A Change Detection Array in the Pacific Arctic Region
+1204084,07/27/2012,07/31/2016,ARCTIC NATURAL SCIENCES,08/01/2012,Collaborative Research: Investigating the potential of carbon-14 in polar firn and ice as a tracer of past cosmic ray flux and an absolute dating tool
+1204096,08/28/2012,02/28/2018,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2012,Collaborative Research:  Arctic Sensitivity to Climate Perturbations and a Millenial Perspective on Current Warming Derived from Shrinking Ice Caps
+1204110,08/24/2012,08/31/2016,ARCTIC NATURAL SCIENCES,09/01/2012,"Collaborative Research: Interactions Between Air Temperature, Permafrost and Hydrology in the High Latitudes of Eurasia"
+1204169,07/13/2012,07/31/2017,ARCTIC NATURAL SCIENCES,08/15/2012,Quantifying nitrite and peroxynitrite formation from the photolysis of nitrate in/on ice
+1204176,08/29/2012,08/31/2016,ARCTIC NATURAL SCIENCES,09/01/2012,Collaborative Research: Continuous Records of Greenhouse Gases and Aerosol Deposition During the Holocene: Testing the Fidelity of New Methods for Reconstructing Atmospheric Change
+1204220,07/13/2012,06/30/2018,ARCTIC NATURAL SCIENCES,07/15/2012,Collaborative Research: Quantification of Dominant Heat Fluxes in Streams and Rivers in Arctic Alaska
+1204223,06/26/2012,06/30/2017,ARCTIC NATURAL SCIENCES,07/01/2012,"NEEM basal ice, assessing the attributes of a cold, deep, dark ecosystem"
+1204233,07/03/2012,01/31/2017,ARCTIC SYSTEM SCIENCE PROGRAM,02/01/2013,"Collaborative Research: Paleoclimate, Paleoenvironment and Other Potential Drivers of Extinction of Mammuthus primigenius, St. Paul Island, Pribilof Islands, Alaska."
+1204247,06/21/2012,09/30/2016,ARCTIC NATURAL SCIENCES,09/01/2012,"Longitudinal variation in the physiology, growth and reproduction of white spruce at the Arctic treeline in Alaska"
+1204248,08/13/2012,07/31/2015,ARCTIC NATURAL SCIENCES,08/15/2012,Ethane measurements in Greenland ice cores: Developing a preindustrial record
+1204263,08/24/2012,02/28/2017,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2012,Methane loss from Arctic: towards an annual budget of CH4 emissions from tundra ecosystems across a latitudinal gradient
+1204267,07/27/2012,07/31/2017,ARCTIC NATURAL SCIENCES,08/01/2012,Circulation and Respiration in Ice-covered Arctic Lakes
+1205008,08/29/2012,08/31/2016,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2012,"Collaborative Research: Investigating the Influence of Sea-surface Variability on Ice Sheet Mass Balance and Outlet Glacier Behavior using Records from Disko Bugt, West Greenland"
+1205062,08/29/2012,08/31/2017,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2012,"Collaborative Research: Investigating the Influence of Sea-surface Variability on Ice Sheet Mass Balance and Outlet Glacier Behavior using Records from Disko Bugt, West Greenland"
+1205152,12/22/2011,12/31/2013,ARCTIC NATURAL SCIENCES,01/01/2012,Rapid Response Research: Accessing New Sea Ice in an Arctic Winter Polynya
+1208635,02/24/2012,02/28/2014,ARCTIC NATURAL SCIENCES,03/01/2012,"Collaborative Research: Sonic Logging the NEEM Corehole, Greenland"
+1215551,03/21/2012,03/31/2014,ARCTIC NATURAL SCIENCES,04/01/2012,Early-concept grant for exploratory research (EAGER) proposal: Accessing the potential of clumped isotope thermometry to constrain temperatures in the Arctic during the Pliocene
+1216385,09/11/2012,08/31/2014,ARCTIC SOCIAL SCIENCES,09/15/2012,"Doctoral Dissertation Improvement Grant: Microblades, Bifaces, and the Chindadn Complex: Reinvestigating the Healy Lake Archaeological Record, Alaska"
+1217575,09/11/2012,08/31/2014,ARCTIC SOCIAL SCIENCES,09/15/2012,Doctoral Dissertation Improvement Grant:  Prehistoric Upland Use in the Central Alaska Range
+1219344,09/10/2012,09/30/2014,ARCTIC SOCIAL SCIENCES,09/15/2012,"Collaborative Research:  Using Visual Methods to Engage Indigenous Youth and Community Members in Cross-Site, International Analysis:  A Methodological Study"
+1224181,09/10/2012,08/31/2016,ARCTIC SOCIAL SCIENCES,09/15/2012,"Examining the intersections of place-making and development in the Pribilof Islands, Alaska"
+1232856,03/08/2012,12/31/2015,ARCTIC NATURAL SCIENCES,02/02/2012,Collaborative Research: Observation and Prediction of Ocean Acidification in the Western Arctic Ocean - Impacts of Physical and Biogeochemical Processes on Carbonate Mineral States
+1236971,07/09/2013,08/31/2016,ARCTIC SOCIAL SCIENCES,08/15/2013,"Doctoral Dissertation Research:  Possibilities for Itelmen language revitalization in Kamchatka, Russia"
+1255228,06/24/2013,06/30/2019,ARCTIC NATURAL SCIENCES,07/01/2013,"CAREER: Microbial Allocation of Assimilated Carbon: Interactions between Temperature, Substrate Quality, and Microbial Physiology Determine Efficiency of Arctic Soil Carbon Cycling"
+1256669,08/20/2012,06/30/2014,ARCTIC NATURAL SCIENCES,09/01/2012,RAPID: Impact of Large Scale Greenland Ice Sheet Melting on Glacier Hydrology and Meltwater Geochemistry
+1263005,07/31/2013,02/28/2015,ARCTIC NATURAL SCIENCES,09/01/2013,Collaborative Research: REU Site: Svalbard REU: Holocene and Modern Climate Change in the Norwegian High Arctic
+1263650,09/12/2013,08/31/2018,ARCTIC SOCIAL SCIENCES,09/01/2013,"Collaborative Research: Water, Energy, and Food Security in the North: Synergies, tradeoffs, and building community capacity for sustainable futures (Sustainable Futures North)"
+1263854,09/17/2013,08/31/2019,ARCTIC SYSTEM SCIENCE PROGRAM,09/15/2013,Cumulative Effects of Arctic Oil Development - planning and designing for sustainability
+1264098,05/10/2013,04/30/2019,ARCTIC NATURAL SCIENCES,05/01/2013,"The Atlantic Water Boundary Current in the Eastern Arctic: Composition, Transport, Variability and Dynamics"
+1301927,08/26/2013,08/31/2017,ARCTIC SOCIAL SCIENCES,09/15/2013,"Collaborative Research:   Geological Hazards, Climate Change, and Human/Ecosystems Resilience in the Islands of the Four Mountains, Alaska."
+1301929,08/26/2013,08/31/2016,ARCTIC SOCIAL SCIENCES,09/15/2013,"Collaborative Research: Geological Hazards, Climate Change, and Human/Ecosystems Resilience in the Islands of the Four Mountains, Alaska."
+1303644,03/12/2014,02/28/2019,AON IMPLEMENTATION,03/01/2014,AON:   Observing the Evolving Central Arctic Ocean with Ice-Tethered Profilers
+1303766,09/06/2013,08/31/2018,ARCTIC NATURAL SCIENCES,09/01/2013,"Collaborative Research:   Assessing the Impact of Small, Canadian Arctic River Flows (SCARFs) to the Freshwater Budget of the Canadian Archipelago"
+1303864,08/26/2013,08/31/2018,AON IMPLEMENTATION,09/01/2013,"High Resolution, Active Remote Sensing of Cloud Microphysics at Summit, Greenland with Polarized Raman Lidar"
+1303879,08/13/2013,07/31/2018,AON IMPLEMENTATION,08/15/2013,"Collaborative Reasearch:  Integrated Characterization of Energy, Clouds, Atmospheric structure, and Precipitation at Summit (ICECAPS)"
+1303895,07/12/2013,11/30/2017,ARCTIC NATURAL SCIENCES,12/01/2013,Collaborative Research:   Dynamics of subglacial erosion of soft sediments and its consequences for glacier evolution
+1303965,07/22/2013,07/31/2017,ARCTIC SYSTEM SCIENCE PROGRAM,08/01/2013,Impacts of distant pollution sources on microphysical transitions in Arctic clouds
+1303991,08/15/2013,07/31/2014,ARCTIC SOCIAL SCIENCES,08/15/2013,"Doctoral Dissertation Research:   ""The sea is our garden"": Inupiaq subsistence, indigenous knowledge, and the 'politics of nature' in the context of Arctic offshore development"
+1304007,05/28/2013,08/31/2018,ARCTIC NATURAL SCIENCES,09/01/2013,RUI:  Collaborative Research: Fire regime influences on carbon dynamics of Siberian boreal forests
+1304011,08/26/2013,08/31/2018,AON IMPLEMENTATION,09/01/2013,Greenland Ice Sheet Monitoring Network (GLISN) Operations
+1304040,05/28/2013,02/29/2016,ARCTIC NATURAL SCIENCES,09/01/2013,RUI:  Collaborative Research: Fire regime influences on carbon dynamics of Siberian boreal forests
+1304052,08/09/2013,07/31/2018,AON IMPLEMENTATION,08/15/2013,Collaborative Research:  A Bering Strait Ocean Observing System for the Pacific Inflow to the Arctic- a fundamental part of the Arctic Observing Network
+1304137,08/26/2013,08/31/2018,AON IMPLEMENTATION,09/01/2013,"Seal-Tag Hydrographic Observations in Ice-Ocean Fjords, Greenland"
+1304202,06/27/2013,09/30/2018,ARCTIC NATURAL SCIENCES,10/01/2013,Collaborative Research:  Soil-Snow-Atmosphere Exchanges of Mercury in the Interior Arctic Tundra
+1304228,06/20/2013,12/31/2018,ARCTIC NATURAL SCIENCES,01/01/2014,Extreme summer melt:   Assessing the habitability and physical structure of rotting first-year Arctic sea ice
+1304270,01/14/2014,12/31/2018,AON IMPLEMENTATION,01/15/2014,"Collaborative Research:  Atmospheric measurements of O2/N2 ratio, CO2 concentration, and CO2 isotopes in support of the Arctic Observing Network"
+1304271,05/01/2014,04/30/2019,AON IMPLEMENTATION,05/01/2014,AON:  Development of Sustainable Observations of Thermal State of Permafrost in North America and Russia: The U.S. Contribution to the Global Terrestrial Network for Permafrost
+1304337,06/18/2013,09/30/2017,ARCTIC NATURAL SCIENCES,10/01/2013,A better understanding of recent changes of the CO2 system in the Western Arctic Ocean via field measurements from the summer 2014 CHINARE cruise
+1304464,05/28/2013,08/31/2018,ARCTIC NATURAL SCIENCES,09/01/2013,RUI:   Collaborative Research: Fire regime influences on carbon dynamics of Siberian boreal forests
+1304523,05/22/2013,01/31/2018,ARCTIC SYSTEM SCIENCE PROGRAM,02/01/2014,Collaborative Research:   Asynchrony in the timing of goose-vegetation interactions:   implications for biogeochemical cycling in wet sedge tundra
+1304544,08/13/2013,07/31/2019,AON IMPLEMENTATION,08/15/2013,"Collaborative Research:  Integrated Characterization of Energy, Clouds, Atmospheric state, and Precipitation at Summit (ICECAPS)"
+1304555,05/26/2014,05/31/2019,AON IMPLEMENTATION,06/01/2014,The Circumpolar Active Layer Monitoring Network-CALM IV(2014-2018): Long-term Observations on the Climate-Active Layer-Permafrost System
+1304563,09/12/2013,08/31/2017,ARCTIC NATURAL SCIENCES,09/01/2013,Collaborative Research:  Contrasting Under-Ice and Open-Water Phytoplankton Blooms in the Chukchi Sea
+1304613,09/11/2013,01/31/2017,ARCTIC SOCIAL SCIENCES,09/01/2013,"Collaborative Research: Gender, Environment, and Change: Exploring Shifting Roles in an Inupiat Community"
+1304681,07/18/2013,12/31/2014,ARCTIC SOCIAL SCIENCES,08/01/2013,Doctoral Dissertation Improvement Grant:  Fishing livelihoods and fisheries management in Northwest Iceland
+1304684,06/26/2013,08/31/2017,ARCTIC SYSTEM SCIENCE PROGRAM,07/01/2013,Collaborative Research:  What Role Do Glaciers Play in Terrestrial Sub-Arctic Hydrology?
+1304755,04/26/2013,08/31/2017,ARCTIC NATURAL SCIENCES,09/01/2013,Oceanographic and Biological Implications of Arctic Sea-Ice Change:  Evidence from Quaternary Benthic Foraminifers
+1304807,07/12/2013,07/31/2018,ARCTIC NATURAL SCIENCES,08/01/2013,Collaborative Research: Assessing the Impact of Arctic Sea Ice Variability on the Greenland Ice Sheet Surface Mass and Energy Balance
+1304879,05/22/2013,01/31/2018,ARCTIC SYSTEM SCIENCE PROGRAM,02/01/2014,Collaborative Research: Asynchrony in the timing of goose-vegetation interactions: implications for biogeochemical cycling in wet sedge tundra
+1304899,07/12/2013,11/30/2018,ARCTIC NATURAL SCIENCES,12/01/2013,Collaborative Research:   Dynamics of subglacial erosion of soft sediments and its consequences for glacier evolution
+1304905,06/26/2013,08/31/2017,ARCTIC SYSTEM SCIENCE PROGRAM,07/01/2013,Collaborative research:  What role do glaciers play in terrestrial sub-arctic hydrology?
+1311655,01/28/2013,01/31/2016,ARCTIC NATURAL SCIENCES,02/01/2013,An initial investigation of the Greenland perennial firn aquifer
+1312402,01/03/2013,06/30/2016,ARCTIC NATURAL SCIENCES,11/06/2012,Warming and drying effects on tundra carbon balance
+1314156,06/21/2013,09/30/2017,ARCTIC NATURAL SCIENCES,10/01/2013,"Collaborative Research:   Characterizing the Roles of Atmospheric Structure and Clouds on the Radiation and Precipitation Budgets at Summit, Greenland"
+1331019,08/15/2013,02/28/2015,ARCTIC SOCIAL SCIENCES,09/01/2013,"Doctoral Dissertation Improvement:   Influences on Nutritional Status among Alaska Native Older Adults of Anchorage, Alaska"
+1332911,08/22/2013,02/28/2017,ARCTIC SYSTEM SCIENCE PROGRAM,09/01/2013,Novel Methods to Observe Heat and Ice in the High Latitudes Using PIES
+1335302,07/18/2014,07/31/2017,ARCTIC SOCIAL SCIENCES,08/01/2014,Testing Stable Isotopes of Human Dental Calculus as a Nondestructive Proxy for Paleodiet
+1339445,07/14/2014,12/31/2016,ARCTIC SOCIAL SCIENCES,07/15/2014,Togiak Archaeological and Paleoecological project
+1339465,04/12/2013,04/30/2015,ARCTIC RESRCH SUPPRT & LOGISTI,05/01/2013,Inland Migration of Crevasses on the Greenland Ice Sheet
+1341500,04/30/2014,06/30/2017,ANTARCTIC EARTH SCIENCES,05/01/2014,RUI: Antarctic Paleobotany: Permian Floral Characteristics in a Sedimentary Setting
+1341881,06/14/2013,05/31/2017,ARCTIC SOCIAL SCIENCES,06/15/2013,"Bering Strait Socio-economic Organization, ca.2000-200 BP: A View from Port Clarence"
+1344264,09/16/2013,12/31/2018,ARCTIC NATURAL SCIENCES,01/01/2014,INSPIRE Track 1: Acoustic Sensor Networks for Ice-Covered Seas
+1348450,08/29/2013,08/31/2016,POLAR CYBERINFRASTRUCTURE,09/01/2013,An open source framework for metadata exploration and discovery of Polar Data
+1349259,09/05/2013,12/31/2016,POLAR CYBERINFRASTRUCTURE,01/01/2014,Building an Effective Service-Oriented Cyberinfrastructure Portal to Support Sustained Polar Sciences
+1355238,03/10/2014,02/28/2017,AON IMPLEMENTATION,03/01/2014,AON: Transitioning the Bering Sea Sub-Network to the Community-based Observation Netwrok for Adapatation and Security
+1415489,07/15/2014,07/31/2017,ARCTIC NATURAL SCIENCES,08/01/2014,Shelf-Basin Exchange in the Chukchi Sea
+1416961,08/18/2014,08/31/2017,ARCTIC NATURAL SCIENCES,09/01/2014,Collaborative Research:  Year-round autonomous sampling of methane in Arctic lakes
+1417149,07/11/2014,08/31/2016,ARCTIC NATURAL SCIENCES,09/01/2014,Determining the Source of Methane in Arctic Ocean Waters Adjacent to Subsea Permafrost
+1417300,06/09/2014,06/30/2018,ARCTIC SYSTEM SCIENCE PROGRAM,07/01/2014,COLLABORATIVE RESEARCH: Ice Regime Shifts of Arctic Lakes Drive Interactions and Feedbacks with Permafrost and Climate
+1417345,06/09/2014,06/30/2019,ARCTIC SYSTEM SCIENCE PROGRAM,07/01/2014,COLLABORATIVE RESEARCH:   Ice Regime Shifts of Arctic Lakes Drive Interactions and Feedbacks with Permafrost and Climate
+1417395,08/18/2014,08/31/2017,ARCTIC NATURAL SCIENCES,09/01/2014,Collaborative Research:  Investigating Geochemical Signatures in Greenland Ice of a Possible Extraterrestrial Impact During the Younger Dryas Climate Event
+1417476,08/18/2014,08/31/2017,ARCTIC NATURAL SCIENCES,09/01/2014,Collaborative Research:  Investigating Geochemical Signatures in Greenland ice of a Possible Extraterrestrial Impact During the Younger Dryas Climate Event
+1417480,08/18/2014,07/31/2017,ARCTIC NATURAL SCIENCES,08/15/2014,Quantifying Greenland Iceberg Melt Rates using Remotely-sensed Data
+1417640,08/12/2014,12/31/2017,ARCTIC NATURAL SCIENCES,01/01/2015,COLLABORATIVE RESEARCH:  GreenTrACS:  a Greenland Traverse for Accumulation and Climate Studies
+1417700,06/04/2014,12/31/2018,ARCTIC SYSTEM SCIENCE PROGRAM,01/01/2015,Collaborative Research:  Vegetation And Ecosystem Impacts On Permafrost Vulnerability
+1417711,07/29/2014,07/31/2018,ARCTIC NATURAL SCIENCES,08/01/2014,Bioavailability of Arctic Soil Carbon:   Examining the Relationship Between Chemical Composition and Lability During the Holocene
+1417745,06/04/2014,12/31/2018,ARCTIC SYSTEM SCIENCE PROGRAM,01/01/2015,Collaborative Research:  Vegetation And Ecosystem Impacts On Permafrost Vulnerability
+1417772,02/06/2015,01/31/2019,ARCTIC SOCIAL SCIENCES,02/01/2015,"Colonization and Christianity:  the development of Viking Age and medieval hierarchies in Skagafjordur, North Iceland"
+1417787,08/28/2014,10/31/2018,ARCTIC NATURAL SCIENCES,11/01/2014,"Collaborative Research: Petermann Gletscher, Greenland - Paleoceanography and Paleoclimatology"
+1417789,06/24/2014,06/30/2017,ARCTIC NATURAL SCIENCES,07/01/2014,Mapping and Quantifying Methane Seeps on the Eastern Siberian Shelf and Slope -- A Component of the Swedish Russian U.S. Climate-Cryosphere-Carbon Interactions (SWERUS-C3) Program
+1418000,06/06/2014,12/31/2018,ARCTIC SYSTEM SCIENCE PROGRAM,01/01/2015,Collaborative research:  Developing a System Model of Arctic Glacial Lake Sedimentation for Investigating Past and Future Climate Change
+1418268,01/28/2015,01/31/2017,ARCTIC SOCIAL SCIENCES,02/01/2015,Doctoral Dissertation Research:  The Economic and Socialcultural Effects of Developing Cyber-Infrastructure for Global information Storage in Iceland
+1421603,02/03/2014,08/31/2014,ARCTIC SYSTEM SCIENCE PROGRAM,08/31/2013,Collaborative Research: Turning on the lights - Photochemical and microbial processing of newly exposed carbon in arctic ecosystems
+1432277,09/10/2014,08/31/2016,AON IMPLEMENTATION,09/15/2014,Arctic Observing Networks: Collaborative Research: Sustaining and amplifying the ITEX AON through automation and increased interdisciplinarity of observations
+1432982,09/10/2014,08/31/2017,AON IMPLEMENTATION,09/15/2014,Arctic Observing Networks: Collaborative Research: Sustaining and amplifying the ITEX AON through automation and increased interdisciplinarity of observations
+1445811,07/27/2014,07/31/2017,ARCTIC SOCIAL SCIENCES,08/15/2014,"Making Science Accessible to Inuit, Inughuit, and Iñupiat Arctic Indigenous Communities in Their Own Languages"
+1445823,07/02/2014,06/30/2016,POLAR CYBERINFRASTRUCTURE,07/01/2014,"High-Performance & Distributed Computing for Polar Sciences: Workshop on Applications, Cyberinfrastructure Requirements and Opportunities"
+1446308,07/23/2014,07/31/2016,ARCTIC SOCIAL SCIENCES,08/01/2014,Investigations of the Long Term Sustainability of Human Ecodynamic Systems in Northern Iceland
+1449784,07/18/2014,01/31/2017,POLAR CYBERINFRASTRUCTURE,08/15/2014,EAGER PROPOSAL: IceTrendr: An Automated Visualization and Analysis Tool for Mapping Changes in Glacier Extent from Landsat
+1458941,02/20/2015,02/28/2019,CHEMICAL OCEANOGRAPHY,03/01/2015,CYCLING OF DISSOLVED ORGANIC MATTER IN THE PACIFIC AND ATLANTIC OCEANS USING RADIOCARBON
+1460290,08/29/2014,08/31/2017,ARCTIC NATURAL SCIENCES,08/01/2014,Collaborative Research: Sample Analysis to Test a Novel Method of Determining Atmospheric Deposition of Trace Elements to the Ocean/Ice System of the Arctic
+1500169,02/04/2015,01/31/2017,ANTARCTIC OCEAN & ATMOSPH SCI,09/04/2014,Detecting the Signature of Permafrost Thaw in Arctic Rivers
+1503559,07/29/2015,08/31/2018,POLAR CYBERINFRASTRUCTURE,09/01/2015,Towards a Tiered Permafrost Modeling Cyberinfrastructure
+1503672,03/09/2016,02/28/2019,AON IMPLEMENTATION,03/15/2016,"Coordination, Data Management and Enhancement of the International Arctic Buoy Programme"
+1503724,06/24/2015,02/28/2017,ARCTIC NATURAL SCIENCES,09/01/2015,Collaborative Research: Detecting Glacier Calving Events from Ocean Waves and Underwater Acoustics
+1503910,07/27/2015,08/31/2019,ARCTIC NATURAL SCIENCES,09/01/2015,Collaborative Research: Impact of subglacial discharge on turbulent plume dynamics and ocean-glacier heat and mass transfer
+1503928,06/10/2015,06/30/2018,POLAR CYBERINFRASTRUCTURE,07/01/2015,"Collaborative Research: Visualization, analysis, and HPC modeling of subglacial hydrology from high-resolution 3D conduit scans acquired with a novel sensor"
+1504141,04/21/2016,03/31/2020,AON IMPLEMENTATION,04/15/2016,"Arctic Observing Networks: Collaborative Research: ITEX AON - understanding the relationships between vegetation change, plant phenology, and ecosystem function in a warming Arctic"
+1504288,07/27/2015,08/31/2019,ARCTIC NATURAL SCIENCES,09/01/2015,Collaborative Research: Impact of subglacial discharge on turbulent plume dynamics and ocean-glacier heat and mass transfer
+1504345,04/21/2016,03/31/2020,AON IMPLEMENTATION,04/15/2016,"Arctic Observing Networks: Collaborative Research:ITEX AON - understanding the relationships between vegetation change, plant phenology, and ecosystem function in a warming Arctic"
+1504381,04/21/2016,03/31/2020,AON IMPLEMENTATION,04/15/2016,"Arctic Observing Networks: Collaborative Research: ITEX AON - understanding the relationships between vegetation change, plant phenology, and ecosystem function in a warming Arctic"
+1504394,07/24/2015,07/31/2019,ARCTIC NATURAL SCIENCES,08/01/2015,"Late Season Productivity, Carbon, and Nutrient Dynamics in a Changing Arctic"
+1504521,07/27/2015,08/31/2019,ARCTIC NATURAL SCIENCES,09/01/2015,Collaborative Research: Impact of subglacial discharge on turbulent plume dynamics and ocean-glacier heat and mass transfer
+1504934,03/14/2016,02/28/2019,AON IMPLEMENTATION,03/15/2016,Taimyr Reindeer Migration Reanalysis (TAMARA)
+1523025,09/10/2015,08/31/2017,ARCTIC SOCIAL SCIENCES,09/15/2015,Doctoral Dissertation Improvement Grant: The Archaeological Investigation of Erosion and its Effect on Social Processes in the Arctic
+1523191,09/25/2015,09/30/2016,ARCTIC SOCIAL SCIENCES,10/01/2015,Doctoral Dissertation Research: Mapping Community Exposure to Coastal Climate Hazards in the Arctic: A Case Study in Alaska's North Slope
+1525636,07/24/2015,07/31/2017,Polar Special Initiatives,08/01/2015,Arctic Plant Phenology - Learning through Engaged Science
+1534673,02/23/2015,02/29/2016,POLAR CYBERINFRASTRUCTURE,03/01/2015,The Second Polar Data Forum: Understanding the Polar Regions through Globally Collaborative Data Management
+1545558,05/19/2015,01/31/2018,ARCTIC NATURAL SCIENCES,05/01/2015,Collaborative Research:   Fire regime influences on carbon dynamics of Siberian boreal forests
+1546002,08/04/2015,08/31/2015,ARCTIC NATURAL SCIENCES,07/15/2015,Collaborative research: Spatial and temporal variability of surface albedo and light absorbing chemical species in Greenland.
+1546024,02/22/2016,01/31/2021,POLAR CYBERINFRASTRUCTURE,02/15/2016,Scientia Arctica: A Knowledge Archive for Discovery and Reproducible Science in the Arctic
+1546954,09/03/2015,08/31/2016,ARCTIC SOCIAL SCIENCES,09/01/2015,Doctoral Dissertation Improvement Grant: Ethnographic Research on the Question of Diaspora Among Ukraine's Displaced Crimean Populations
+1547011,07/08/2015,05/31/2017,ARCTIC NATURAL SCIENCES,05/01/2015,Quantifying Rates of Biological Production to Better Understand the Carbon Cycle in the Canada Basin
+1550260,08/10/2015,07/31/2017,ARCTIC SOCIAL SCIENCES,08/15/2015,Partial Support for the Eleventh Conference on Hunting and Gathering Societies
+1561437,11/02/2015,10/31/2017,ARCTIC SYSTEM SCIENCE PROGRAM,11/15/2015,The Carbon Balance of Arctic River Deltas: Tundra Fire as an Agent of System Change
+1603276,05/17/2016,07/31/2018,ARCTIC NATURAL SCIENCES,08/01/2016,Proteomic evidence of microbial weathering processes beneath the Greenland Ice Sheet
+1603407,08/04/2016,08/31/2019,POLAR CYBERINFRASTRUCTURE,09/01/2016,Constraining Greenland's Surface Mass Balance using an Aggregated Dataset for Community Use
+1624927,06/27/2016,08/31/2019,IUSE,09/01/2016,Polaris: Catalyzing Demographic Change in the Arctic Research Community through an Immersive and Sustained Undergraduate Research Experience
+1630360,02/10/2016,06/30/2017,ARCTIC SYSTEM SCIENCE PROGRAM,07/01/2016,"Riparian shrub expansion: Linkages to permafrost, hydrology and soil microbes"
+1636711,05/02/2016,06/30/2016,ARCTIC SOCIAL SCIENCES,08/16/2015,Arctic Survey on Adaptation to Climate Change
+1637688,05/16/2016,05/31/2017,Polar Special Initiatives,06/01/2016,Alaska Science Communication Workshop
+1642016,06/29/2016,01/31/2017,ARCTIC SOCIAL SCIENCES,07/01/2016,"Collaborative Research:   The Ends of Oil: Changing Life in Earth Science, Extractive Industry, and Indigenous Communities in Alaska"
+1642851,06/22/2016,05/31/2017,ARCTIC NATURAL SCIENCES,06/15/2016,Estimating fluxes of CO2 and CH4 along the Siberian Yensei River
+1643187,07/26/2016,07/31/2017,ARCTIC NATURAL SCIENCES,02/23/2016,Collaborative Research:   Assessing the Impact of Arctic Sea Ice Variability on the Greenland Ice Sheet Surface Mass and Energy Balance
+1702456,07/10/2017,08/31/2019,AON IMPLEMENTATION,09/01/2017,Collaborative Research: The Distributed Biological Observatory (DBO)-A Change Detection Array in the Pacific Arctic Region
+1712031,01/12/2017,12/31/2017,ARCTIC NATURAL SCIENCES,01/15/2017,Workshop proposal: The future shape of a Greenland GNSS Observation Network
+9255000,05/26/1993,10/31/1995,YOUNG SCHOLARS PROGRAM,06/01/1993,Young Scholars Project -- Environmental and Earth Sciences
+9910335,03/22/2000,02/28/2005,ARCTIC SYSTEM SCIENCE PROGRAM,03/15/2000,North Pole Station:  A Distributed Long-Term Environmental Observatory
