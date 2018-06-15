@@ -14,4 +14,4 @@ summary_simple <- readr::read_csv("funding_summary_simple.csv")
 
 ### 2) a graph showing number of NSF awards represented in the ADC over time?
 
-![](https://github.com/isteves/arcticfunding/blob/master/awards_over_time.png?raw=true)
+![](images/awards_over_time.png)
