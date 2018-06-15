@@ -5,6 +5,12 @@
 ```
 summary <- readr::read_csv("funding_summary_full.csv")
 ```
+![](images/summary_full.png)
+
+```
+summary_simple <- readr::read_csv("funding_summary_simple.csv")
+```
+![](images/summary_simple.png)
 
 ### 2) a graph showing number of NSF awards represented in the ADC over time?
 
