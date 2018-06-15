@@ -14,14 +14,17 @@ fund_pubDate <- funding_clean %>%
   group_by(funding_num) %>% 
   summarize(min_pubDate = min(pubDate))
 
-funding_dates <- fund_pubDate %>% 
-  left_join(funding_summary, by = "funding_num") %>% 
+funding_summary_full <- funding_summary %>% 
+  left_join(fund_pubDate, by = "funding_num") 
+
+write_csv(funding_summary_full, "funding_summary_full.csv")
+
+cplot <- funding_summary_full %>% 
   filter(!is.na(title), !is.na(min_pubDate)) %>% 
   arrange(min_pubDate) %>%
   mutate(count = 1,
-         ccount = cumsum(count))
-
-cplot <- ggplot(funding_dates, aes(x = min_pubDate, y = ccount)) +
+         ccount = cumsum(count)) %>% 
+  ggplot(aes(x = min_pubDate, y = ccount)) +
   geom_line() +
   xlab("Date") + ylab("Cumulative datasets") +
   theme_bw()
