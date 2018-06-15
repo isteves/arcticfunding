@@ -30,4 +30,4 @@ cplot <- funding_summary_full %>%
   theme_bw()
 #auto-removed files without dates
 
-ggsave("awards_over_time.png")
+ggsave("images/awards_over_time.png")
