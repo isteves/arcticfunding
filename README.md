@@ -14,4 +14,10 @@ summary_simple <- readr::read_csv("funding_summary_simple.csv")
 
 ### 2) a graph showing number of NSF awards represented in the ADC over time?
 
+Using the `pubDate` field in the EML:
+
 ![](images/awards_over_time.png)
+
+Using the `dateUploaded` field associated with the EML file: 
+
+![](images/awards_dateUploaded.png)
