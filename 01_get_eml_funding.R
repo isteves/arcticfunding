@@ -1,20 +1,27 @@
-#use files downloaded by Bryce:
-
 library(xml2)
 library(tidyverse)
-path <- "../../../tmp/eml" #on datateam server
+path <- "../../../tmp/eml" #on datateam server; run Bryce's script to download all EML files from ADC
 file_paths <- list.files(path, full.names = TRUE)
 
-funding_raw <- tibble(file_paths = file_paths[!str_detect(file_paths, ".txt$")]) %>% 
-  mutate(funding = map(file_paths, ~.x %>% 
-                             read_xml() %>% 
-                             xml_find_all(".//funding") %>% 
-                             as.character()),
-         funding = as.character(funding))
+xml_raw <- tibble(file_paths = file_paths[!str_detect(file_paths, ".txt$")]) %>% 
+  mutate(doc = map(file_paths, ~read_xml(.x)))
 
-funding_clean <- funding_raw %>% 
-  mutate(file = str_extract(file_paths, "[^/]*$"),
-         funding = str_extract(funding, "[A-z- ]*[0-9]{5,7}")) %>% 
-  select(-file_paths)
+xml_proc <- xml_raw  %>% 
+  mutate(funding = map_chr(doc, ~xml_find_all(.x, ".//funding") %>% paste(collapse = "; ")),
+         pubDate = map_chr(doc, ~xml_find_all(.x, ".//pubDate") %>% paste(collapse = "; ")),
+         file = str_extract(file_paths, "[^/]*$")) %>% 
+  mutate(funding = str_extract_all(funding, "[A-z- ]*[0-9]{5,7}"),
+         pubDate = str_extract_all(pubDate, "[0-9-]+")) %>% 
+  select(-file_paths, -doc)
+
+funding_clean <- xml_proc %>% 
+  select(funding, file) %>% 
+  unnest(funding) 
 
 write_csv(funding_clean, "funding_clean.csv")
+
+pubDate_clean <- xml_proc %>% 
+  select(pubDate, file) %>% 
+  unnest(pubDate) 
+
+write_csv(pubDate_clean, "pubDate_clean.csv")
