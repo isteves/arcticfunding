@@ -1,25 +1,26 @@
+# Combine data and graph over time
+
 library(tidyverse)
 library(lubridate)
 
-funding_summary <- read_csv("funding_summary.csv")
-funding_clean <- read_csv("funding_clean.csv")
-pubDate_clean <- read_csv("pubDate_clean.csv")
+nsf_matches <- read_csv("nsf_matches.csv")
+eml_info <- read_csv("eml_info.csv")
 
-fund_pubDate <- funding_clean %>% 
-  na.omit() %>% 
-  left_join(pubDate_clean, by = "file") %>% 
-  mutate(funding_num = str_extract(funding, "[0-9]{5,7}"),
-         pubDate = parse_date_time(pubDate,
+# Join eml_info to nsf api output
+funding_summary <- eml_info %>% 
+  mutate(pubDate = parse_date_time(pubDate,
                                    c('%Y','%Y-%m-%d'), exact = TRUE)) %>% 
   group_by(funding_num) %>% 
-  summarize(min_pubDate = min(pubDate))
+  summarize(n_datasets = n(),
+            dataset_ids = paste(file, collapse = "; "),
+            funding_text = paste(unique(funding), collapse = "; "),
+            min_pubDate = min(pubDate)) %>% 
+  inner_join(nsf_matches, by = "funding_num") 
+  
+write_csv(funding_summary, "funding_summary.csv")
 
-funding_summary_full <- funding_summary %>% 
-  left_join(fund_pubDate, by = "funding_num") 
-
-write_csv(funding_summary_full, "funding_summary_full.csv")
-
-cplot <- funding_summary_full %>% 
+# Graph over time
+cplot <- funding_summary %>% 
   filter(!is.na(title), !is.na(min_pubDate)) %>% 
   arrange(min_pubDate) %>%
   mutate(count = 1,
@@ -31,3 +32,9 @@ cplot <- funding_summary_full %>%
 #auto-removed files without dates
 
 ggsave("images/awards_over_time.png")
+
+funding_summary_simple <- funding_summary_full %>% 
+  mutate(nsf_match = !is.na(title)) %>% 
+  select(funding_num, funding_text, n_datasets, nsf_match, min_pubDate)
+
+write_csv(funding_summary_simple, "funding_summary_simple.csv")

@@ -1,22 +1,18 @@
-# Check graph results using pubDate against dateUploaded field
+# Graph results using pubDate instead of dateUploaded field
 
 dateUploaded <- read_delim("/home/mecum/latest-eml.txt", delim = " ") %>% 
   rename(file = filename)
-funding_clean <- read_csv("funding_clean.csv")
+eml_info <- read_csv("eml_info.csv")
+funding_summary <- read_csv("funding_summary.csv")
 
-fund_dateUploaded <- funding_clean %>% 
+fund_dateUploaded <- eml_info %>% 
   na.omit() %>% 
   left_join(dateUploaded, by = "file") %>% 
-  mutate(funding_num = str_extract(funding, "[0-9]{5,7}")) %>% 
   group_by(funding_num) %>% 
-  summarize(min_dateUploaded = min(date_uploaded))
+  summarize(min_dateUploaded = min(date_uploaded)) %>% 
+  inner_join(funding_summary, by = "funding_num")
 
-funding_summary_full <- read_csv("funding_summary_full.csv")
-
-funding_summary_full2 <- funding_summary_full %>% 
-  left_join(fund_dateUploaded, by = "funding_num") 
-
-cplot <- funding_summary_full2 %>% 
+cplot <- fund_dateUploaded %>% 
   filter(!is.na(title), !is.na(min_dateUploaded)) %>% 
   arrange(min_dateUploaded) %>%
   mutate(count = 1,

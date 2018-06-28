@@ -15,13 +15,16 @@ xml_proc <- xml_raw  %>%
   select(-file_paths, -doc)
 
 funding_clean <- xml_proc %>% 
-  select(funding, file) %>% 
-  unnest(funding) 
-
-write_csv(funding_clean, "funding_clean.csv")
+  select(-pubDate) %>% 
+  unnest(funding) %>% 
+  mutate(funding_num = str_extract(funding, "[0-9]{5,7}")) 
 
 pubDate_clean <- xml_proc %>% 
-  select(pubDate, file) %>% 
+  select(-funding) %>% 
   unnest(pubDate) 
 
-write_csv(pubDate_clean, "pubDate_clean.csv")
+# Join funding and pubDate back together
+eml_info <- funding_clean %>% 
+  left_join(pubDate_clean, by = "file")
+
+write_csv(eml_info, "eml_info.csv")
